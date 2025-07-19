@@ -1,0 +1,235 @@
+Patient ID,Age,Gender,Smoking Status,Follow-up No,Follow-up Date,Follow-up Interval,LungRAD Score,Tumor Size (cm),Treatment Plan,Diagnosis Outcome,Cancer Stage
+P001,45,F,Non-smoker,1,2023-01-01,3 months,4A,3.7,Routine surveillance,Progressive nodule,Unknown
+P001,45,F,Non-smoker,3,2023-12-27,6 months,3,1.8,Repeat low-dose CT,Benign,Unknown
+P001,45,F,Non-smoker,2,2024-01-01,12 months,1,4.5,Bronchoscopy and biopsy,Indeterminate,Unknown
+P002,73,F,Non-smoker,1,2023-01-01,Immediate,1,3.8,PET scan and oncology referral,Progressive nodule,Unknown
+P003,73,F,Former smoker,1,2023-01-01,3 months,2,0.9,CT with contrast and biopsy,Indeterminate,Unknown
+P003,73,F,Former smoker,3,2023-01-01,Immediate,4B,1.2,CT with contrast and biopsy,Stable nodule,Unknown
+P003,73,F,Former smoker,2,2023-06-30,6 months,3,4.7,Repeat low-dose CT,Malignant,Unknown
+P004,66,M,Non-smoker,1,2023-01-01,Immediate,3,3.7,Repeat low-dose CT,Indeterminate,Unknown
+P004,66,M,Non-smoker,3,2023-12-27,6 months,2,4.6,Routine surveillance,Stable nodule,Unknown
+P004,66,M,Non-smoker,2,2024-01-01,12 months,3,0.7,Bronchoscopy and biopsy,Benign,Unknown
+P005,62,F,Former smoker,1,2023-01-01,12 months,1,3.7,Repeat low-dose CT,Indeterminate,Unknown
+P005,62,F,Former smoker,2,2023-01-01,Immediate,4B,2.9,Surgical resection,Benign,Unknown
+P006,60,M,Non-smoker,1,2023-01-01,12 months,3,2.3,Repeat low-dose CT,Benign,Unknown
+P006,60,M,Non-smoker,2,2023-04-01,3 months,3,2.1,PET scan and oncology referral,Indeterminate,Unknown
+P007,49,F,Former smoker,1,2023-01-01,Immediate,1,3.2,Referral for surgery,Indeterminate,Unknown
+P007,49,F,Former smoker,2,2023-01-01,Immediate,2,1.5,Surgical resection,Indeterminate,Unknown
+P007,49,F,Former smoker,3,2023-06-30,3 months,3,1.1,Annual low-dose CT,Malignant,Stage II
+P007,49,F,Former smoker,4,2024-06-24,6 months,4A,4.2,Annual low-dose CT,Stable nodule,Unknown
+P008,71,M,Smoker,1,2023-01-01,3 months,4A,4.1,PET scan and oncology referral,Benign,Unknown
+P008,71,M,Smoker,2,2023-06-30,6 months,1,1.3,Referral for surgery,Stable nodule,Unknown
+P008,71,M,Smoker,3,2023-12-27,6 months,1,3.0,CT with contrast and biopsy,Malignant,Stage III
+P009,61,M,Smoker,1,2023-01-01,12 months,4B,4.4,Repeat low-dose CT,Stable nodule,Unknown
+P009,61,M,Smoker,2,2023-06-30,6 months,2,2.4,Surgical resection,Progressive nodule,Unknown
+P009,61,M,Smoker,3,2024-12-31,12 months,4A,1.6,PET scan and oncology referral,Malignant,Stage IV
+P010,74,F,Smoker,1,2023-01-01,6 months,4A,2.2,Referral for surgery,Progressive nodule,Unknown
+P011,46,M,Former smoker,1,2023-01-01,3 months,2,4.2,CT with contrast and biopsy,Malignant,Stage IV
+P011,46,M,Former smoker,3,2023-12-27,6 months,2,4.8,Routine surveillance,Stable nodule,Unknown
+P011,46,M,Former smoker,2,2024-01-01,12 months,1,0.7,PET scan and oncology referral,Stable nodule,Unknown
+P012,50,F,Former smoker,1,2023-01-01,Immediate,4B,3.9,Referral for surgery,Benign,Unknown
+P012,50,F,Former smoker,3,2023-01-01,Immediate,4B,2.0,Annual low-dose CT,Benign,Unknown
+P012,50,F,Former smoker,2,2023-04-01,3 months,4A,3.0,Annual low-dose CT,Indeterminate,Unknown
+P012,50,F,Former smoker,4,2023-09-28,3 months,4B,4.6,CT with contrast and biopsy,Progressive nodule,Unknown
+P013,45,M,Former smoker,1,2023-01-01,6 months,2,2.1,PET scan and oncology referral,Progressive nodule,Unknown
+P013,45,M,Former smoker,2,2023-01-01,Immediate,4A,1.5,Repeat low-dose CT,Benign,Unknown
+P013,45,M,Former smoker,3,2023-01-01,Immediate,4B,2.0,Routine surveillance,Stable nodule,Unknown
+P014,55,M,Non-smoker,1,2023-01-01,12 months,2,1.7,Routine surveillance,Malignant,Stage IV
+P014,55,M,Non-smoker,2,2023-04-01,3 months,4A,4.7,CT with contrast and biopsy,Stable nodule,Unknown
+P014,55,M,Non-smoker,3,2024-12-31,12 months,1,3.2,CT with contrast and biopsy,Progressive nodule,Unknown
+P015,47,M,Former smoker,1,2023-01-01,12 months,4A,4.0,Referral for surgery,Malignant,Stage II
+P015,47,M,Former smoker,3,2023-01-01,Immediate,1,2.6,Bronchoscopy and biopsy,Indeterminate,Unknown
+P015,47,M,Former smoker,2,2024-01-01,12 months,2,4.2,Bronchoscopy and biopsy,Indeterminate,Unknown
+P015,47,M,Former smoker,4,2024-06-24,6 months,1,2.5,PET scan and oncology referral,Stable nodule,Unknown
+P016,53,M,Non-smoker,1,2023-01-01,6 months,3,3.1,Referral for surgery,Benign,Unknown
+P016,53,M,Non-smoker,3,2023-06-30,3 months,3,3.1,Referral for surgery,Benign,Unknown
+P016,53,M,Non-smoker,2,2024-01-01,12 months,3,1.5,Bronchoscopy and biopsy,Malignant,Stage IV
+P017,49,F,Former smoker,1,2023-01-01,3 months,2,4.2,Annual low-dose CT,Stable nodule,Unknown
+P017,49,F,Former smoker,2,2024-01-01,12 months,4A,4.4,CT with contrast and biopsy,Progressive nodule,Unknown
+P018,53,M,Smoker,1,2023-01-01,12 months,4B,3.1,PET scan and oncology referral,Benign,Unknown
+P018,53,M,Smoker,2,2024-01-01,12 months,4B,1.1,Referral for surgery,Stable nodule,Unknown
+P019,64,F,Former smoker,1,2023-01-01,6 months,4A,2.8,Annual low-dose CT,Benign,Unknown
+P020,50,F,Smoker,1,2023-01-01,12 months,4B,2.0,Surgical resection,Benign,Unknown
+P020,50,F,Smoker,2,2023-04-01,3 months,4B,3.6,Repeat low-dose CT,Stable nodule,Unknown
+P021,59,M,Former smoker,1,2023-01-01,Immediate,4A,1.4,Annual low-dose CT,Benign,Unknown
+P021,59,M,Former smoker,3,2023-06-30,3 months,2,1.4,Surgical resection,Progressive nodule,Unknown
+P021,59,M,Former smoker,2,2024-01-01,12 months,4A,1.0,Surgical resection,Malignant,Unknown
+P022,60,M,Smoker,1,2023-01-01,Immediate,4B,3.0,CT with contrast and biopsy,Stable nodule,Unknown
+P022,60,M,Smoker,3,2023-06-30,3 months,4B,4.1,Annual low-dose CT,Indeterminate,Unknown
+P022,60,M,Smoker,2,2024-01-01,12 months,4B,1.1,Referral for surgery,Progressive nodule,Unknown
+P023,72,M,Former smoker,1,2023-01-01,12 months,4A,4.3,Routine surveillance,Progressive nodule,Unknown
+P024,71,M,Smoker,1,2023-01-01,6 months,2,3.5,PET scan and oncology referral,Indeterminate,Unknown
+P025,53,M,Non-smoker,1,2023-01-01,3 months,4B,2.2,Annual low-dose CT,Indeterminate,Unknown
+P025,53,M,Non-smoker,2,2023-04-01,3 months,1,2.3,PET scan and oncology referral,Indeterminate,Unknown
+P025,53,M,Non-smoker,3,2023-06-30,3 months,4A,0.9,CT with contrast and biopsy,Progressive nodule,Unknown
+P025,53,M,Non-smoker,4,2025-12-31,12 months,3,1.0,Repeat low-dose CT,Stable nodule,Unknown
+P026,77,F,Smoker,1,2023-01-01,12 months,4B,0.6,PET scan and oncology referral,Benign,Unknown
+P027,61,M,Smoker,1,2023-01-01,6 months,1,2.8,Surgical resection,Indeterminate,Unknown
+P028,47,M,Smoker,1,2023-01-01,3 months,4B,3.6,CT with contrast and biopsy,Indeterminate,Unknown
+P028,47,M,Smoker,2,2023-01-01,Immediate,4B,4.1,PET scan and oncology referral,Indeterminate,Unknown
+P028,47,M,Smoker,3,2024-12-31,12 months,4B,2.7,Referral for surgery,Benign,Unknown
+P029,65,M,Non-smoker,1,2023-01-01,3 months,2,3.8,Annual low-dose CT,Progressive nodule,Unknown
+P029,65,M,Non-smoker,2,2023-04-01,3 months,4A,2.1,Routine surveillance,Indeterminate,Unknown
+P030,68,F,Former smoker,1,2023-01-01,12 months,4A,2.5,CT with contrast and biopsy,Benign,Unknown
+P030,68,F,Former smoker,2,2023-06-30,6 months,4A,3.7,PET scan and oncology referral,Progressive nodule,Unknown
+P031,70,M,Former smoker,1,2023-01-01,6 months,4A,3.2,Referral for surgery,Malignant,Unknown
+P032,60,M,Smoker,1,2023-01-01,12 months,1,3.3,Surgical resection,Progressive nodule,Unknown
+P033,50,F,Former smoker,1,2023-01-01,3 months,2,3.8,Routine surveillance,Benign,Unknown
+P033,50,F,Former smoker,2,2024-01-01,12 months,3,4.6,Repeat low-dose CT,Benign,Unknown
+P033,50,F,Former smoker,3,2024-12-31,12 months,4A,1.2,Referral for surgery,Stable nodule,Unknown
+P033,50,F,Former smoker,4,2025-12-31,12 months,3,4.3,Repeat low-dose CT,Progressive nodule,Unknown
+P034,46,M,Smoker,1,2023-01-01,12 months,2,1.4,CT with contrast and biopsy,Indeterminate,Unknown
+P034,46,M,Smoker,2,2023-06-30,6 months,1,2.8,Bronchoscopy and biopsy,Malignant,Stage II
+P035,74,F,Smoker,1,2023-01-01,6 months,3,4.3,Surgical resection,Progressive nodule,Unknown
+P036,74,M,Non-smoker,1,2023-01-01,12 months,3,4.9,Referral for surgery,Malignant,Stage II
+P036,74,M,Non-smoker,2,2023-04-01,3 months,4A,3.6,Repeat low-dose CT,Progressive nodule,Unknown
+P036,74,M,Non-smoker,3,2024-12-31,12 months,4A,2.8,Surgical resection,Progressive nodule,Unknown
+P037,60,F,Non-smoker,1,2023-01-01,6 months,2,3.0,Surgical resection,Progressive nodule,Unknown
+P037,60,F,Non-smoker,2,2023-01-01,Immediate,3,2.5,PET scan and oncology referral,Malignant,Stage I
+P037,60,F,Non-smoker,4,2024-06-24,6 months,4A,4.2,Annual low-dose CT,Indeterminate,Unknown
+P037,60,F,Non-smoker,3,2024-12-31,12 months,3,0.8,PET scan and oncology referral,Indeterminate,Unknown
+P038,46,F,Smoker,1,2023-01-01,6 months,2,0.9,Repeat low-dose CT,Stable nodule,Unknown
+P038,46,F,Smoker,2,2023-01-01,Immediate,4A,3.0,Annual low-dose CT,Malignant,Stage III
+P038,46,F,Smoker,3,2023-01-01,Immediate,1,3.9,Referral for surgery,Benign,Unknown
+P038,46,F,Smoker,4,2023-01-01,Immediate,2,5.0,Bronchoscopy and biopsy,Stable nodule,Unknown
+P039,71,M,Smoker,1,2023-01-01,6 months,1,3.8,Referral for surgery,Benign,Unknown
+P039,71,M,Smoker,2,2024-01-01,12 months,3,3.1,CT with contrast and biopsy,Progressive nodule,Unknown
+P040,68,M,Smoker,1,2023-01-01,Immediate,2,3.6,CT with contrast and biopsy,Benign,Unknown
+P041,74,F,Smoker,1,2023-01-01,6 months,2,2.0,Surgical resection,Benign,Unknown
+P041,74,F,Smoker,2,2023-01-01,Immediate,4A,2.0,CT with contrast and biopsy,Stable nodule,Unknown
+P042,74,M,Non-smoker,1,2023-01-01,3 months,3,1.0,CT with contrast and biopsy,Progressive nodule,Unknown
+P043,69,F,Former smoker,1,2023-01-01,12 months,2,3.2,Repeat low-dose CT,Stable nodule,Unknown
+P044,45,M,Former smoker,1,2023-01-01,6 months,3,4.5,Referral for surgery,Malignant,Stage IV
+P044,45,M,Former smoker,3,2023-12-27,6 months,2,4.1,Bronchoscopy and biopsy,Malignant,Stage I
+P044,45,M,Former smoker,2,2024-01-01,12 months,3,0.9,Referral for surgery,Progressive nodule,Unknown
+P045,71,M,Former smoker,1,2023-01-01,Immediate,4A,1.6,Routine surveillance,Stable nodule,Unknown
+P046,66,F,Former smoker,1,2023-01-01,6 months,2,1.6,Repeat low-dose CT,Stable nodule,Unknown
+P046,66,F,Former smoker,3,2023-01-01,Immediate,4A,5.0,Surgical resection,Stable nodule,Unknown
+P046,66,F,Former smoker,4,2023-01-01,Immediate,1,1.2,Repeat low-dose CT,Malignant,Stage IV
+P046,66,F,Former smoker,2,2023-06-30,6 months,3,0.6,Surgical resection,Indeterminate,Unknown
+P047,54,M,Smoker,1,2023-01-01,3 months,1,4.1,Referral for surgery,Benign,Unknown
+P047,54,M,Smoker,2,2023-04-01,3 months,2,1.2,Bronchoscopy and biopsy,Benign,Unknown
+P048,80,F,Non-smoker,1,2023-01-01,Immediate,2,0.6,PET scan and oncology referral,Progressive nodule,Unknown
+P048,80,F,Non-smoker,3,2023-01-01,Immediate,1,2.7,Repeat low-dose CT,Stable nodule,Unknown
+P048,80,F,Non-smoker,2,2024-01-01,12 months,3,4.8,CT with contrast and biopsy,Indeterminate,Unknown
+P049,66,M,Non-smoker,1,2023-01-01,6 months,1,3.7,Surgical resection,Progressive nodule,Unknown
+P049,66,M,Non-smoker,2,2023-01-01,Immediate,2,3.7,Routine surveillance,Stable nodule,Unknown
+P049,66,M,Non-smoker,3,2023-12-27,6 months,4B,3.0,Surgical resection,Stable nodule,Unknown
+P050,64,M,Smoker,1,2023-01-01,6 months,1,1.1,PET scan and oncology referral,Stable nodule,Unknown
+P051,51,F,Former smoker,1,2023-01-01,6 months,1,2.2,Referral for surgery,Indeterminate,Unknown
+P051,51,F,Former smoker,2,2023-06-30,6 months,4B,4.3,Repeat low-dose CT,Progressive nodule,Unknown
+P051,51,F,Former smoker,3,2024-12-31,12 months,4A,2.2,Bronchoscopy and biopsy,Progressive nodule,Unknown
+P052,71,M,Non-smoker,1,2023-01-01,3 months,4A,3.3,Annual low-dose CT,Indeterminate,Unknown
+P053,64,F,Non-smoker,1,2023-01-01,3 months,4B,2.6,Bronchoscopy and biopsy,Stable nodule,Unknown
+P053,64,F,Non-smoker,2,2024-01-01,12 months,1,1.6,PET scan and oncology referral,Malignant,Stage II
+P054,68,M,Smoker,1,2023-01-01,3 months,4A,3.2,PET scan and oncology referral,Progressive nodule,Unknown
+P054,68,M,Smoker,2,2023-01-01,Immediate,4B,1.4,Routine surveillance,Malignant,Stage II
+P054,68,M,Smoker,3,2023-06-30,3 months,4A,0.7,Referral for surgery,Stable nodule,Unknown
+P054,68,M,Smoker,4,2025-12-31,12 months,1,1.9,Annual low-dose CT,Malignant,Unknown
+P055,51,M,Non-smoker,1,2023-01-01,3 months,4A,4.8,Surgical resection,Stable nodule,Unknown
+P056,68,F,Smoker,1,2023-01-01,6 months,4A,1.3,Repeat low-dose CT,Indeterminate,Unknown
+P056,68,F,Smoker,2,2024-01-01,12 months,2,3.7,Annual low-dose CT,Malignant,Stage II
+P057,51,F,Former smoker,1,2023-01-01,6 months,4A,2.3,Annual low-dose CT,Progressive nodule,Unknown
+P057,51,F,Former smoker,2,2023-01-01,Immediate,4A,3.9,PET scan and oncology referral,Progressive nodule,Unknown
+P058,58,F,Former smoker,1,2023-01-01,Immediate,4B,3.4,Routine surveillance,Indeterminate,Unknown
+P058,58,F,Former smoker,2,2024-01-01,12 months,4A,3.1,Referral for surgery,Stable nodule,Unknown
+P058,58,F,Former smoker,3,2024-12-31,12 months,4A,4.5,Annual low-dose CT,Benign,Unknown
+P059,74,M,Smoker,1,2023-01-01,6 months,4A,0.9,Repeat low-dose CT,Progressive nodule,Unknown
+P059,74,M,Smoker,2,2023-06-30,6 months,3,0.8,Referral for surgery,Benign,Unknown
+P059,74,M,Smoker,3,2023-12-27,6 months,4B,1.0,Routine surveillance,Progressive nodule,Unknown
+P060,46,F,Former smoker,1,2023-01-01,12 months,2,4.4,PET scan and oncology referral,Progressive nodule,Unknown
+P061,68,F,Non-smoker,1,2023-01-01,12 months,4A,2.6,Surgical resection,Stable nodule,Unknown
+P061,68,F,Non-smoker,3,2023-06-30,3 months,3,2.0,CT with contrast and biopsy,Malignant,Stage II
+P061,68,F,Non-smoker,4,2023-09-28,3 months,1,3.6,PET scan and oncology referral,Indeterminate,Unknown
+P061,68,F,Non-smoker,2,2024-01-01,12 months,2,3.2,Annual low-dose CT,Benign,Unknown
+P062,70,F,Former smoker,1,2023-01-01,12 months,4B,4.5,Annual low-dose CT,Stable nodule,Unknown
+P062,70,F,Former smoker,2,2024-01-01,12 months,2,3.1,Routine surveillance,Benign,Unknown
+P063,65,M,Former smoker,1,2023-01-01,6 months,3,0.6,PET scan and oncology referral,Malignant,Stage III
+P064,78,M,Smoker,1,2023-01-01,6 months,3,3.5,Annual low-dose CT,Malignant,Stage IV
+P064,78,M,Smoker,2,2023-04-01,3 months,4B,2.6,Referral for surgery,Progressive nodule,Unknown
+P065,68,M,Non-smoker,1,2023-01-01,6 months,4B,2.9,Repeat low-dose CT,Benign,Unknown
+P065,68,M,Non-smoker,2,2023-01-01,Immediate,2,1.4,Bronchoscopy and biopsy,Malignant,Stage III
+P065,68,M,Non-smoker,3,2023-06-30,3 months,4B,1.2,Referral for surgery,Indeterminate,Unknown
+P066,65,M,Smoker,1,2023-01-01,Immediate,2,1.7,CT with contrast and biopsy,Indeterminate,Unknown
+P066,65,M,Smoker,2,2023-06-30,6 months,2,4.4,Routine surveillance,Indeterminate,Unknown
+P067,80,M,Former smoker,1,2023-01-01,Immediate,4B,2.4,Annual low-dose CT,Stable nodule,Unknown
+P068,73,F,Smoker,1,2023-01-01,3 months,4A,3.3,Referral for surgery,Stable nodule,Unknown
+P068,73,F,Smoker,2,2024-01-01,12 months,1,2.8,Surgical resection,Progressive nodule,Unknown
+P069,63,M,Smoker,1,2023-01-01,Immediate,1,3.9,Bronchoscopy and biopsy,Progressive nodule,Unknown
+P069,63,M,Smoker,2,2023-06-30,6 months,3,4.0,CT with contrast and biopsy,Progressive nodule,Unknown
+P070,63,F,Former smoker,1,2023-01-01,3 months,4A,0.7,Repeat low-dose CT,Progressive nodule,Unknown
+P070,63,F,Former smoker,2,2024-01-01,12 months,4B,4.2,Surgical resection,Malignant,Unknown
+P071,65,M,Non-smoker,1,2023-01-01,6 months,4A,2.9,Annual low-dose CT,Progressive nodule,Unknown
+P071,65,M,Non-smoker,2,2023-01-01,Immediate,4A,2.4,PET scan and oncology referral,Malignant,Stage I
+P071,65,M,Non-smoker,4,2023-01-01,Immediate,2,3.5,Repeat low-dose CT,Stable nodule,Unknown
+P071,65,M,Non-smoker,3,2023-06-30,3 months,2,2.3,Routine surveillance,Stable nodule,Unknown
+P072,75,F,Smoker,1,2023-01-01,12 months,2,1.3,Surgical resection,Indeterminate,Unknown
+P073,59,F,Smoker,1,2023-01-01,3 months,1,3.1,Annual low-dose CT,Progressive nodule,Unknown
+P074,78,M,Former smoker,1,2023-01-01,12 months,4B,4.9,Bronchoscopy and biopsy,Indeterminate,Unknown
+P075,72,F,Non-smoker,1,2023-01-01,3 months,1,0.5,Annual low-dose CT,Benign,Unknown
+P075,72,F,Non-smoker,2,2023-06-30,6 months,3,0.5,Repeat low-dose CT,Indeterminate,Unknown
+P075,72,F,Non-smoker,3,2023-12-27,6 months,4B,5.0,Routine surveillance,Malignant,Unknown
+P076,73,F,Non-smoker,1,2023-01-01,12 months,4B,3.2,Repeat low-dose CT,Indeterminate,Unknown
+P076,73,F,Non-smoker,2,2023-06-30,6 months,4A,0.7,Annual low-dose CT,Progressive nodule,Unknown
+P076,73,F,Non-smoker,3,2024-12-31,12 months,4A,4.6,CT with contrast and biopsy,Stable nodule,Unknown
+P077,60,F,Smoker,1,2023-01-01,12 months,4B,3.1,Bronchoscopy and biopsy,Progressive nodule,Unknown
+P077,60,F,Smoker,3,2023-01-01,Immediate,1,4.3,Routine surveillance,Benign,Unknown
+P077,60,F,Smoker,2,2023-06-30,6 months,4B,1.1,Surgical resection,Indeterminate,Unknown
+P077,60,F,Smoker,4,2024-06-24,6 months,3,3.6,Referral for surgery,Malignant,Stage I
+P078,69,M,Smoker,1,2023-01-01,3 months,4A,3.5,Routine surveillance,Benign,Unknown
+P078,69,M,Smoker,4,2023-01-01,Immediate,1,4.2,CT with contrast and biopsy,Progressive nodule,Unknown
+P078,69,M,Smoker,2,2024-01-01,12 months,3,2.0,Repeat low-dose CT,Benign,Unknown
+P078,69,M,Smoker,3,2024-12-31,12 months,3,4.9,Surgical resection,Indeterminate,Unknown
+P079,70,M,Non-smoker,1,2023-01-01,Immediate,4B,0.8,Surgical resection,Benign,Unknown
+P079,70,M,Non-smoker,2,2023-04-01,3 months,3,0.9,Referral for surgery,Stable nodule,Unknown
+P080,58,F,Smoker,1,2023-01-01,3 months,1,2.9,CT with contrast and biopsy,Progressive nodule,Unknown
+P080,58,F,Smoker,3,2023-06-30,3 months,1,2.5,Routine surveillance,Malignant,Stage I
+P080,58,F,Smoker,2,2024-01-01,12 months,4B,4.1,Repeat low-dose CT,Malignant,Stage III
+P081,54,M,Former smoker,1,2023-01-01,12 months,2,3.6,CT with contrast and biopsy,Progressive nodule,Unknown
+P081,54,M,Former smoker,3,2023-01-01,Immediate,2,4.2,PET scan and oncology referral,Stable nodule,Unknown
+P081,54,M,Former smoker,4,2023-09-28,3 months,4A,4.8,CT with contrast and biopsy,Progressive nodule,Unknown
+P081,54,M,Former smoker,2,2024-01-01,12 months,4A,4.8,Routine surveillance,Indeterminate,Unknown
+P082,70,F,Non-smoker,1,2023-01-01,6 months,4A,2.8,Referral for surgery,Stable nodule,Unknown
+P083,64,M,Former smoker,1,2023-01-01,12 months,1,1.4,Repeat low-dose CT,Stable nodule,Unknown
+P083,64,M,Former smoker,3,2023-01-01,Immediate,4A,1.7,CT with contrast and biopsy,Indeterminate,Unknown
+P083,64,M,Former smoker,2,2023-04-01,3 months,2,3.3,Routine surveillance,Benign,Unknown
+P083,64,M,Former smoker,4,2023-09-28,3 months,4B,0.7,Bronchoscopy and biopsy,Progressive nodule,Unknown
+P084,60,F,Former smoker,1,2023-01-01,3 months,2,2.4,Routine surveillance,Progressive nodule,Unknown
+P084,60,F,Former smoker,2,2023-01-01,Immediate,3,1.8,Annual low-dose CT,Benign,Unknown
+P085,68,F,Former smoker,1,2023-01-01,12 months,2,0.9,Referral for surgery,Benign,Unknown
+P086,64,M,Former smoker,1,2023-01-01,6 months,2,3.8,CT with contrast and biopsy,Indeterminate,Unknown
+P087,73,F,Former smoker,1,2023-01-01,Immediate,4A,3.6,CT with contrast and biopsy,Benign,Unknown
+P087,73,F,Former smoker,2,2024-01-01,12 months,4B,4.0,Referral for surgery,Indeterminate,Unknown
+P087,73,F,Former smoker,3,2024-12-31,12 months,1,2.2,Referral for surgery,Benign,Unknown
+P088,57,F,Non-smoker,1,2023-01-01,6 months,2,2.1,Annual low-dose CT,Indeterminate,Unknown
+P088,57,F,Non-smoker,2,2024-01-01,12 months,2,4.9,CT with contrast and biopsy,Malignant,Stage II
+P089,79,F,Smoker,1,2023-01-01,12 months,4A,1.6,PET scan and oncology referral,Benign,Unknown
+P089,79,F,Smoker,2,2023-06-30,6 months,4A,1.4,Bronchoscopy and biopsy,Malignant,Stage II
+P089,79,F,Smoker,3,2023-12-27,6 months,2,1.1,Routine surveillance,Benign,Unknown
+P089,79,F,Smoker,4,2024-06-24,6 months,2,2.9,CT with contrast and biopsy,Stable nodule,Unknown
+P090,64,M,Smoker,1,2023-01-01,3 months,4B,2.8,CT with contrast and biopsy,Progressive nodule,Unknown
+P090,64,M,Smoker,2,2023-04-01,3 months,3,3.1,CT with contrast and biopsy,Indeterminate,Unknown
+P091,61,F,Former smoker,1,2023-01-01,3 months,3,2.8,CT with contrast and biopsy,Benign,Unknown
+P092,74,F,Non-smoker,1,2023-01-01,6 months,1,2.2,CT with contrast and biopsy,Malignant,Stage III
+P093,52,F,Former smoker,1,2023-01-01,Immediate,3,4.1,Routine surveillance,Malignant,Stage I
+P094,77,M,Smoker,1,2023-01-01,6 months,4B,4.9,Repeat low-dose CT,Malignant,Unknown
+P094,77,M,Smoker,2,2023-06-30,6 months,1,2.5,Bronchoscopy and biopsy,Malignant,Stage II
+P094,77,M,Smoker,3,2023-06-30,3 months,4B,2.7,Bronchoscopy and biopsy,Benign,Unknown
+P095,79,F,Former smoker,1,2023-01-01,6 months,1,3.6,Bronchoscopy and biopsy,Benign,Unknown
+P095,79,F,Former smoker,2,2024-01-01,12 months,2,1.9,PET scan and oncology referral,Progressive nodule,Unknown
+P096,54,F,Smoker,1,2023-01-01,3 months,3,3.8,CT with contrast and biopsy,Indeterminate,Unknown
+P096,54,F,Smoker,3,2023-01-01,Immediate,3,0.7,CT with contrast and biopsy,Malignant,Stage I
+P096,54,F,Smoker,2,2023-06-30,6 months,2,3.8,CT with contrast and biopsy,Malignant,Stage I
+P096,54,F,Smoker,4,2023-09-28,3 months,4B,2.8,CT with contrast and biopsy,Indeterminate,Unknown
+P097,80,F,Former smoker,1,2023-01-01,6 months,3,2.6,Bronchoscopy and biopsy,Malignant,Stage III
+P097,80,F,Former smoker,2,2023-04-01,3 months,4A,2.7,Routine surveillance,Malignant,Stage IV
+P097,80,F,Former smoker,3,2024-12-31,12 months,1,2.8,Routine surveillance,Benign,Unknown
+P098,60,M,Former smoker,1,2023-01-01,Immediate,4A,4.5,Routine surveillance,Progressive nodule,Unknown
+P098,60,M,Former smoker,2,2023-01-01,Immediate,3,1.3,PET scan and oncology referral,Malignant,Stage II
+P098,60,M,Former smoker,3,2023-06-30,3 months,4A,2.4,Repeat low-dose CT,Benign,Unknown
+P099,48,M,Non-smoker,1,2023-01-01,6 months,4A,3.8,Surgical resection,Progressive nodule,Unknown
+P099,48,M,Non-smoker,2,2024-01-01,12 months,3,4.7,Repeat low-dose CT,Benign,Unknown
+P100,76,M,Former smoker,1,2023-01-01,6 months,4A,3.0,Routine surveillance,Indeterminate,Unknown
+P100,76,M,Former smoker,2,2024-01-01,12 months,4A,0.7,Referral for surgery,Malignant,Stage I
+P100,76,M,Former smoker,4,2024-06-24,6 months,2,4.7,CT with contrast and biopsy,Stable nodule,Unknown
+P100,76,M,Former smoker,3,2024-12-31,12 months,4B,4.6,CT with contrast and biopsy,Benign,Unknown
